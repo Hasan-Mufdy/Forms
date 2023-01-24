@@ -7,11 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Log In/Sign Up project</title>
 </head>
-<body>
+<body class="header-body">
     <div class="header">
-       <h1>temp header</h1>
-       <br>
-       <p class="header">nav bar will be added here</p> 
-
-       
+        <a href="index.php">Home</a>
+        <ul>
+            <li class="header-li"><a href="signup.php">sign up</a></li>
+            <li class="header-li"><a href="login.php">login</a></li>
+            
+        </ul>
     </div>
